@@ -1,6 +1,5 @@
 {
   "name": "notes-infra",
-  "type": "@serverless-stack/resources",
   "stage": "dev",
-  "region": "ca-central-1"
+  "region": "us-east-1"
 }
