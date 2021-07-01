@@ -1,5 +1,8 @@
-# Serverless Node.js Starter
+# Scratch
 
+Scratch - An CRUD application where user can create, read, update and delete  the notes. Also, users can attach image related to a particular note. This is backend of the project. To visit the frontend visit this [link](https://github.com/g4rry420/serverless-stack-client).
+
+## Serverless Node.js Starter
 
 [Serverless Node.js Starter](https://github.com/AnomalyInnovations/serverless-nodejs-starter) uses the [serverless-bundle](https://github.com/AnomalyInnovations/serverless-bundle) plugin and the [serverless-offline](https://github.com/dherault/serverless-offline) plugin. It supports:
 
@@ -7,8 +10,6 @@
 - **Using ES6 or TypeScript in your handler functions**
 - **Run API Gateway locally**
   - Use `serverless offline start`
-- **Support for unit tests**
-  - Run `npm test` to run your tests
 - **Sourcemaps for proper error messages**
   - Error message show the correct line numbers
   - Works in production with CloudWatch
